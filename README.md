@@ -2,7 +2,7 @@
 
 <p> This is the second project that I've add a README, because I think that this project that I made looked at least a decent one . </p>
 
-<p> I made this project using a website called <a href = "https://frontendpractice.com">Front-End Practice</a>. It's a good website for those who wants to practice their skills on Front-End. </p>
+<p> I made this project using a website called <a href = "https://frontendpractice.com">Front-End Practice</a>. It's a good website for those who wants to practice their Front-End skills. </p>
 <br><br>
 
 ## 🚀 Tecnologies
